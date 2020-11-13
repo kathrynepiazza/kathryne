@@ -1,0 +1,15 @@
+Package: kathryne
+Title: Alphabet
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Kathryne",
+           family = "Piazza",
+           role = c("aut", "cre"),
+           email = "first.last@example.com",
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Randomly chooses a letter from the alphabet. 
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.1.1
